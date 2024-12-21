@@ -61,26 +61,26 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
     <td style="text-align:center"><a href="https://ed-fish.github.io">Ed Fish</a> <br> University of Surrey</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_Abraham_Glasser.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_walsh" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_momeni.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_fox.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_Camgoz.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.niessnerlab.org/index.html">Matthias Nießner</a> <br> Technical University of Munich</td>
-    <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br> Max Planck Institute for Intelligent Systems</td>
-    <td style="text-align:center"><a href="https://maartjedemeulder.be">Maartje De Meulder</a> <br> HU – University of Applied Sciences Utrecht</td>
-    <td style="text-align:center"><a href="https://abrahamglasser.com">Abraham Glasser</a> <br> Gallaudet University</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=0H4urUIAAAAJ&hl=en">Harry Walsh</a> <br> University of Surrey</td>
+    <td style="text-align:center"><a href="https://www.robots.ox.ac.uk/~liliane/">Liliane Momeni</a> <br> Google Deepmind</td>
+    <td style="text-align:center"><a href="https://research.birmingham.ac.uk/en/persons/neil-fox">Neil Fox</a> <br> University of Birmingham</td>
+    <td style="text-align:center"><a href="https://www.cihancamgoz.com">Necati Cihan Camgöz</a> <br> Meta Reality Labs</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_cormier.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_woll.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_bowden.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.niessnerlab.org/index.html">Matthias Nießner</a> <br> Technical University of Munich</td>
-    <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br> Max Planck Institute for Intelligent Systems</td>
-    <td style="text-align:center"><a href="https://maartjedemeulder.be">Maartje De Meulder</a> <br> HU – University of Applied Sciences Utrecht</td>
+    <td style="text-align:center"><a href="https://sites.google.com/view/kearsy/">Kearsy Cormier</a> <br> University College London</td>
+    <td style="text-align:center"><a href="https://profiles.ucl.ac.uk/7678-bencie-woll">Bencie Woll</a> <br> University College London</td>
+    <td style="text-align:center"><a href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a> <br> University of Surrey</td>
   </tr>
 </table>
 
