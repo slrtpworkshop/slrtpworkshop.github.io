@@ -47,13 +47,42 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
 
 ### Organizers
 
-* [Stephan Mandt](http://www.stephanmandt.com), University of California, Irvine
-* [Robert Bamler](https://robamler.github.io), University of Tübingen, Germany
-* [Yingzhen Li](http://yingzhenli.net/home/en/), Microsoft Research Cambridge
-* [Christopher Schroers](https://studios.disneyresearch.com/people/christopher-schroers/), Disney Research Studios
-* [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam; Qualcomm AI Research
-* [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
-* [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org_lakhal.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_sincan.jpeg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_varol.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_fish.jpeg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://mlakhal.github.io">Mohamed Ilyes Lakhal</a> <br> University of Surrey</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=nACVfjYAAAAJ&hl=de">Özge Mercanoğlu Sincan</a> <br> University of Surrey</td>
+    <td style="text-align:center"><a href="https://gulvarol.github.io">Gül Varol</a> <br> École des Ponts ParisTech</td>
+    <td style="text-align:center"><a href="https://ed-fish.github.io">Ed Fish</a> <br> University of Surrey</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_Abraham_Glasser.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://www.niessnerlab.org/index.html">Matthias Nießner</a> <br> Technical University of Munich</td>
+    <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br> Max Planck Institute for Intelligent Systems</td>
+    <td style="text-align:center"><a href="https://maartjedemeulder.be">Maartje De Meulder</a> <br> HU – University of Applied Sciences Utrecht</td>
+    <td style="text-align:center"><a href="https://abrahamglasser.com">Abraham Glasser</a> <br> Gallaudet University</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://www.niessnerlab.org/index.html">Matthias Nießner</a> <br> Technical University of Munich</td>
+    <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br> Max Planck Institute for Intelligent Systems</td>
+    <td style="text-align:center"><a href="https://maartjedemeulder.be">Maartje De Meulder</a> <br> HU – University of Applied Sciences Utrecht</td>
+  </tr>
+</table>
 
 ### Questions
 
