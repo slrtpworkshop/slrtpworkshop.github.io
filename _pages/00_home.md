@@ -14,22 +14,14 @@ TBD
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_rianne_van_den_berg.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_oren_rippel.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_Abraham_Glasser.jpg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://www.niessnerlab.org/index.html">Matthias Nießner</a> <br> Technical University of Munich</td>
-    <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br>Max Planck Institute for Intelligent Systems</td>
-    <td style="text-align:center"><a href="https://riannevdberg.github.io">Rianne van den Berg</a> <br> Google Brain</td>
-    <td style="text-align:center"><a href="https://www.orenrippel.com">Oren Rippel</a> <br> WaveOne</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_jonathan_ho.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_johannes_balle.jpg" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="http://www.jonathanho.me">Jonathan Ho</a> <br>  Google</td>
-    <td style="text-align:center"><a href="https://balle.io">Johannes Ballé</a> <br> Google</td>
+    <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br> Max Planck Institute for Intelligent Systems</td>
+    <td style="text-align:center"><a href="https://maartjedemeulder.be">Maartje De Meulder</a> <br> HU – University of Applied Sciences Utrecht</td>
+    <td style="text-align:center"><a href="https://abrahamglasser.com">Abraham Glasser</a> <br> Gallaudet University</td>
   </tr>
 </table>
 
