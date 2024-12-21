@@ -55,6 +55,10 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
 * [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
 * [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
 
+### Questions
+
+Contact us at [m.lakhal@surrey.ac.uk](mailto:m.lakhal@surrey.ac.uk) or [o.mercanoglusincan@surrey.ac.uk](o.mercanoglusincan@surrey.ac.uk).
+
 ### Sponsors
 
 <table style="width:75%">
