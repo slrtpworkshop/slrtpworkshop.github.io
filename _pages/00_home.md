@@ -13,7 +13,7 @@ TBD
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="speaker_Michael_Black.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_rianne_van_den_berg.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_oren_rippel.jpg" height="175"></td>
   </tr>
