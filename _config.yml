@@ -1,13 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "Neural Compression: From Information Theory to Applications"
+name: "SLRTP: Production, assessment and beyond"
 email:
 description: > # this means to ignore newlines until "url:"
-  A Venue for neural compression
+  A Venue for Sign Language Recognition, Translation & Production
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url: https://slrtpworkshop.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -32,8 +31,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Neural Compression
-blog_description: These are neural compression papers which have been reviewed and accepted.
+blog_name: 
+blog_description: 
 
 # Pagination
 paginate: 4
