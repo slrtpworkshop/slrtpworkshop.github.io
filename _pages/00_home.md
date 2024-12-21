@@ -2,8 +2,8 @@
 layout: home
 permalink: /
 title: SLRTP2025
-desc_title: The 3rd Workshop on Sign Language Recognition, Translation and Production @ CVPR 2025
-description: TODO
+desc_title: SLRTP @ CVPR 2025
+description: The 3rd Workshop on Sign Language Recognition, Translation and Production
 ---
 
 Sign languages are visual languages and a key form of communication for Deaf
