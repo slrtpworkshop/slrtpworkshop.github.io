@@ -61,7 +61,7 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
     <td style="text-align:center"><a href="https://ed-fish.github.io">Ed Fish</a> <br> University of Surrey</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/org_walsh" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/org_walsh.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/org_momeni.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/org_fox.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/org_Camgoz.jpg" height="175"></td>
