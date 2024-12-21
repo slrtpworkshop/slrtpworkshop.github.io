@@ -59,7 +59,7 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/sponsor1.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/sponsor1.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/sponsor2.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/sponsor3.jpg" height="175"></td>
   </tr>
