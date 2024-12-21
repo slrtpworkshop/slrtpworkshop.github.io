@@ -12,13 +12,13 @@ TBD
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_fabian_mentzer.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_naftali_tishby.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_rianne_van_den_berg.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_oren_rippel.jpg" height="175"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://fmentzer.github.io">Fabian Mentzer</a> <br> ETH Zurich</td>
+    <td style="text-align:center"><a href="https://fmentzer.github.io">Matthias Nießner</a> <br> Technical University of Munich</td>
     <td style="text-align:center"><a href="https://elsc.huji.ac.il/faculty-staff/naftali-tishby">Naftali Tishby</a> <br>Hebrew University of Jerusalem</td>
     <td style="text-align:center"><a href="https://riannevdberg.github.io">Rianne van den Berg</a> <br> Google Brain</td>
     <td style="text-align:center"><a href="https://www.orenrippel.com">Oren Rippel</a> <br> WaveOne</td>
