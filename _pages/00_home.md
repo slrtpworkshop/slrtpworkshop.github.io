@@ -1,12 +1,26 @@
 ---
 layout: home
 permalink: /
-title: ICLR2021
-desc_title: Neural Compression Workshop @ ICLR 2020
-description: From Information Theory to Applications 
+title: SLRTP2025
+desc_title: The 3rd Workshop on Sign Language Recognition, Translation and Production @ CVPR 2025
+description: TODO
 ---
 
-TBD
+Sign languages are visual languages and a key form of communication for Deaf
+communities. Thanks to recent advances in deep learning and computer vision and the avail-
+ability of larger datasets, significant progress has been made in sign language technologies.
+Following the first and second editions, this workshop is motivated by the desire to broaden
+participation in sign language research from the computer vision community. It aims to
+bring together researchers working on different aspects of vision-based sign language re-
+search and sign language linguists to explore recent advances and future directions in sign
+language recognition, translation, and production.
+
+The workshop will consist of invited talks and a challenge on sign language production.
+We have seen an increase in Sign Language Production (SLP) approaches over the last few
+years. However, the lack of standardised evaluation metrics for SLP approaches hampers
+meaningful comparisons across different systems. Therefore, this challenge aims to stan-
+dardise SLP evaluation and representation to enable fairer comparison. It will be conducted
+using a benchmark dataset and feature a leaderboard.
 
 ### Confirmed Speakers
 
@@ -25,23 +39,6 @@ TBD
   </tr>
 </table>
 
-### Penalists
-
-<table style="width:75%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/panel_alex_alemi.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/penal_ferenc_huszar.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/penal_philipp_krahenbuhl.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/penal_irina_higgins.webp" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://www.alexalemi.com">Alex Alemi</a> <br> Senior Research Scientist at Google</td>
-    <td style="text-align:center"><a href="https://www.inference.vc/about/">Ferenc Huszár</a> <br> Cambridge University</td>
-    <td style="text-align:center"><a href="https://www.philkr.net">Philipp Krähenbühl</a> <br>University of Texas at Austin</td>
-    <td style="text-align:center"><a href="https://uk.linkedin.com/in/irina-higgins-74455235">Irina Higgins</a> <br> DeepMind</td>
-  </tr>
-</table>
-
 ### How do I submit?
 
 **Main deadline: TBD**
@@ -57,3 +54,13 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
 * [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam; Qualcomm AI Research
 * [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
 * [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
+
+### Sponsors
+
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/sponsor1.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/sponsor2.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/sponsor3.jpg" height="175"></td>
+  </tr>
+</table>
