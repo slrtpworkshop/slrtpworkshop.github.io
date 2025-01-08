@@ -13,9 +13,7 @@ The workshop will consist of invited talks and a challenge on sign language prod
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center">
-      <img src="assets/img/speaker_Michael_Black.jpg" height="175" class="circular-image">
-    </td>
+    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_Abraham_Glasser.jpg" height="175"></td>
@@ -27,13 +25,6 @@ The workshop will consist of invited talks and a challenge on sign language prod
     <td style="text-align:center"><a href="https://abrahamglasser.com">Abraham Glasser</a> <br> Gallaudet University</td>
   </tr>
 </table>
-<style>
-  .circular-image {
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto; /* Resmi merkezlemek için */
-  }
-</style>
 
 
 ### How do I submit?
