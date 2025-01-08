@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "SLRTP: Production, assessment and beyond"
+name: "SLRTP"
 email:
 description: > # this means to ignore newlines until "url:"
   A Venue for Sign Language Recognition, Translation & Production
