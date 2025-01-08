@@ -14,7 +14,7 @@ Sign languages are visual languages and a key form of communication for deaf com
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/speaker_Abraham_Glasser.jpg" height="175"></td>
   </tr>
   <tr>
