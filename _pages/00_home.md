@@ -7,9 +7,8 @@ description: The 3rd Workshop on Sign Language Recognition, Translation and Prod
 ---
 
 Sign languages are visual languages and a key form of communication for deaf communities. Thanks to recent advances in deep learning and computer vision and the availability of larger datasets, significant progress has been made in sign language technologies. Following the first and second editions, this workshop is motivated by the desire to broaden participation in sign language research from the computer vision community. It aims to bring together researchers working on different aspects of vision-based sign language research and sign language linguists to explore recent advances and future directions in sign language recognition, translation, and production.
-The workshop will consist of invited talks and a challenge on sign language production. 
 
-### Confirmed Speakers
+### Keynote Speakers
 
 <table style="width:75%">
   <tr>
@@ -26,12 +25,6 @@ The workshop will consist of invited talks and a challenge on sign language prod
   </tr>
 </table>
 
-
-### How do I submit?
-
-**Main deadline: TBD**
-
-Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional details on how to submit.
 
 ### Organizers
 
