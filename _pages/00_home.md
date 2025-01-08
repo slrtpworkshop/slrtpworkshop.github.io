@@ -67,7 +67,7 @@ Sign languages are visual languages and a key form of communication for deaf com
 
 ### Questions
 
-Contact us at [m.lakhal@surrey.ac.uk](mailto:m.lakhal@surrey.ac.uk) or [o.mercanoglusincan@surrey.ac.uk](o.mercanoglusincan@surrey.ac.uk).
+Contact us at [m.lakhal@surrey.ac.uk](mailto:m.lakhal@surrey.ac.uk) or [o.mercanoglusincan@surrey.ac.uk](mailto:o.mercanoglusincan@surrey.ac.uk).
 
 ### Sponsors
 
