@@ -36,42 +36,65 @@ Sign languages are visual languages and a key form of communication for deaf com
 
 ### Organizers
 
-<table style="width:75%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/org_lakhal.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_sincan.jpeg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_fish.jpeg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_walsh.jpg" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://mlakhal.github.io">Mohamed Ilyes Lakhal</a> <br> University of Surrey</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=nACVfjYAAAAJ&hl=de">Özge Mercanoğlu Sincan</a> <br> University of Surrey</td>
-    <td style="text-align:center"><a href="https://ed-fish.github.io">Ed Fish</a> <br> University of Surrey</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=0H4urUIAAAAJ&hl=en">Harry Walsh</a> <br> University of Surrey</td>
-  </tr>
-  <tr>
-  <td style="text-align:center"><img src="assets/img/org_varol.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_momeni.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_fox.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_Camgoz.jpg" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://gulvarol.github.io">Gül Varol</a> <br> École des Ponts ParisTech</td>
-    <td style="text-align:center"><a href="https://www.robots.ox.ac.uk/~liliane/">Liliane Momeni</a> <br> Google Deepmind</td>
-    <td style="text-align:center"><a href="https://research.birmingham.ac.uk/en/persons/neil-fox">Neil Fox</a> <br> University of Birmingham</td>
-    <td style="text-align:center"><a href="https://www.cihancamgoz.com">Necati Cihan Camgöz</a> <br> Meta Reality Labs</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="assets/img/org_cormier.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_woll.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/org_bowden.jpg" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://sites.google.com/view/kearsy/">Kearsy Cormier</a> <br> University College London</td>
-    <td style="text-align:center"><a href="https://profiles.ucl.ac.uk/7678-bencie-woll">Bencie Woll</a> <br> University College London</td>
-    <td style="text-align:center"><a href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a> <br> University of Surrey</td>
-  </tr>
-</table>
+<div class="user-cards">
+  <div class="user-card">
+    <img src="assets/img/org_lakhal.jpg" class="user-image" alt="Mohamed Ilyes Lakhal">
+    <a class="user-name" href="https://mlakhal.github.io">Mohamed Ilyes Lakhal</a>
+    <span>University of Surrey</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_sincan.jpeg" class="user-image" alt="Özge Mercanoğlu Sincan">
+    <a class="user-name" href="https://scholar.google.com/citations?user=nACVfjYAAAAJ&hl=de">Özge Mercanoğlu Sincan</a>
+    <span>University of Surrey</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_fish.jpeg" class="user-image" alt="Ed Fish">
+    <a class="user-name" href="https://ed-fish.github.io">Ed Fish</a>
+    <span>University of Surrey</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_walsh.jpg" class="user-image" alt="Harry Walsh">
+    <a class="user-name" href="https://scholar.google.com/citations?user=0H4urUIAAAAJ&hl=en">Harry Walsh</a>
+    <span>University of Surrey</span>
+  </div>
+
+  <div class="user-card">
+    <img src="assets/img/org_varol.jpg" class="user-image" alt="Gül Varol">
+    <a class="user-name" href="https://gulvarol.github.io">Gül Varol</a>
+    <span>École des Ponts ParisTech</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_momeni.jpg" class="user-image" alt="Liliane Momeni">
+    <a class="user-name" href="https://www.robots.ox.ac.uk/~liliane/">Liliane Momeni</a>
+    <span>Google Deepmind</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_fox.jpg" class="user-image" alt="Neil Fox">
+    <a class="user-name" href="https://research.birmingham.ac.uk/en/persons/neil-fox">Neil Fox</a>
+    <span>University of Birmingham</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_Camgoz.jpg" class="user-image" alt="Necati Cihan Camgöz">
+    <a class="user-name" href="https://www.cihancamgoz.com">Necati Cihan Camgöz</a>
+    <span>Meta Reality Labs</span>
+  </div>
+
+  <div class="user-card">
+    <img src="assets/img/org_cormier.jpg" class="user-image" alt="Kearsy Cormier">
+    <a class="user-name" href="https://sites.google.com/view/kearsy/">Kearsy Cormier</a>
+    <span>University College London</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_woll.jpg" class="user-image" alt="Bencie Woll">
+    <a class="user-name" href="https://profiles.ucl.ac.uk/7678-bencie-woll">Bencie Woll</a>
+    <span>University College London</span>
+  </div>
+  <div class="user-card">
+    <img src="assets/img/org_bowden.jpg" class="user-image" alt="Richard Bowden">
+    <a class="user-name" href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a>
+    <span>University of Surrey</span>
+  </div>
+</div>
 
 ### Questions
 
