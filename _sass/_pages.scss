@@ -12,3 +12,33 @@
 .center{
     text-align: center;
 }
+// Users
+.user {
+    &-cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    &-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        flex: 1 0 calc(25% - 1rem);
+    }
+
+    &-image {
+        border-radius: 50%;
+        margin-bottom: 1rem;
+        width: 170px;
+        height: 170px;
+        object-fit: cover;
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    }
+
+    &-name {
+        margin-bottom: .25rem;
+        font-weight: bold;
+    }
+}
