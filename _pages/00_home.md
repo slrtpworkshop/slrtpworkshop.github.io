@@ -22,7 +22,7 @@ Sign languages are visual languages and a key form of communication for deaf com
     <span>Technical University of Munich</span>
   </div>
   <div class="user-card">
-    <img src="assets/img/speaker_MaartjeDeMeulder.jpeg" class="user-image" alt="Maartje De Meulder">
+    <img src="assets/img/speaker_MaartjeDeMeulder.png" class="user-image" alt="Maartje De Meulder">
     <a class="user-name" href="https://maartjedemeulder.be">Maartje De Meulder</a>
     <span>HU – University of Applied Sciences Utrecht</span>
   </div>
