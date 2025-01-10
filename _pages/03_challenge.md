@@ -11,6 +11,8 @@ Important Dates:
 - Start of test phase: February 27, 2025 
 - End of the Challenge: March 3, 2025 
 - Code and Fact sheets submission: March 7, 2025 
-- Release of results: March 13, 2025 
+- Release of results: March 13, 2025
+
+All deadlines will be based on 23:59 UTC.
 
 More info coming soon!
