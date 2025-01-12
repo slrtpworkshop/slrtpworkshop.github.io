@@ -21,4 +21,8 @@ We accept papers addressing the issues related to, but not limited to, these top
 - Human Mesh Recovery 
 - Animatable Avatars
 
-Important Dates: TBD
+Important Dates: 
+
+- Paper Submission: March 17, 2025 
+- Decisions to Authors: April 2, 2025 
+- Camera-Ready: April 6, 2025 
