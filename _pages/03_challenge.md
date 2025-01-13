@@ -8,7 +8,7 @@ We have seen an increase in Sign Language Production (SLP) approaches over the l
 
 Important Dates: 
 - Start of the Challenge (development phase): January 13, 2025 
-- Start of test phase: February 27, 2025 
+- Start of test phase: February 24, 2025 
 - End of the Challenge: March 3, 2025 
 - Code and Fact sheets submission: March 7, 2025 
 - Release of results: March 13, 2025
