@@ -19,4 +19,4 @@ All deadlines begin at 00:00 GMT (London) and end 23:59 GMT.
 
 The winning team will be invited to present their work at the SLRTP workshop at CVPR 2025. We will publish a collaborative paper summarizing the key findings, methodologies, and insights from the challenge. Top teams will be added to this paper that will be included in the CVPR Workshop proceedings.
 
-For more details, please visit the challenge website: https://www.codabench.org/competitions/4854/ 
+For more details, please visit the challenge website: [https://www.codabench.org/competitions/4854/](https://www.codabench.org/competitions/4854/) 
