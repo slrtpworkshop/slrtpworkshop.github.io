@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title"><img src="assets/img/slrtplogo.png" class="slrtplogo-home" alt="Logo"> {{ page.desc_title }}</h1>
-    <h5 class="post-description">{{ page.description }}</h5>
+    <h5 class="post-description">{{ page.description | newline_to_br}}</h5>
   </header>
 
   <article class="post-content {{page.title}} clearfix">

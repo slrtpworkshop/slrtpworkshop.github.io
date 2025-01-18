@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: Home
 desc_title: at CVPR 2025
-description: The 3rd Workshop on Sign Language Recognition, Translation and Production
+description: "The 3rd Workshop on Sign Language Recognition, Translation and Production<br>Wed June 11th - Sun June 15th, 2025, Nashville TN"
 ---
 
 Sign languages are visual languages and a key form of communication for deaf communities. Thanks to recent advances in deep learning and computer vision and the availability of larger datasets, significant progress has been made in sign language technologies. Following the first and second editions, this workshop is motivated by the desire to broaden participation in sign language research from the computer vision community. It aims to bring together researchers working on different aspects of vision-based sign language research and sign language linguists to explore recent advances and future directions in sign language recognition, translation, and production.
