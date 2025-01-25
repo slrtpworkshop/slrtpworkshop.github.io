@@ -34,6 +34,20 @@ Sign languages are visual languages and a key form of communication for deaf com
 </div>
 
 
+**Important Dates for Paper Submission:** 
+
+- Paper Submission: March 17, 2025 
+- Decisions to Authors: April 2, 2025 
+- Camera-Ready: April 6, 2025 
+
+**Important Dates for the Challenge:**
+- Start of the Challenge (development phase): January 13, 2025 
+- Start of test phase: February 24, 2025 
+- End of the Challenge: March 3, 2025 
+- Code and Fact sheets submission: March 7, 2025 
+- Release of results: March 13, 2025
+
+
 ### Organizers
 
 <div class="user-cards">
