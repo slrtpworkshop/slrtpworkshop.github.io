@@ -46,7 +46,7 @@ The service is provided for free by Microsoft and they bear all the expenses, in
 - Danielle Bragg, Microsoft Research, USA
 - Eleni Efthimiou, Institute for Language and Speech Processing, Greece
 - Fabrizio Nunnari, German Research Center for AI, Germany
-- Hacer Yalim Keles, Ankara University, Turkiye
+- Hacer Yalim Keles, Hacettepe University, Turkiye
 - Lale Akarun, Bogazici University, Turkiye
 - Mathew Magimai Doss, IDIAP, Switzerland
 - Mayumi Bono, National Institute of Informatics, Japan
