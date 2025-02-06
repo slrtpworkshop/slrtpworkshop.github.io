@@ -22,9 +22,9 @@ We accept papers addressing the issues related to, but not limited to, these top
 
 **Important Dates:** 
 
-- Paper Submission: March 17, 2025 
-- Decisions to Authors: April 2, 2025 
-- Camera-Ready: April 6, 2025 
+- Paper Submission: March 16, 2025 (11:59 PM PST)
+- Decisions to Authors: April 1, 2025 (11:59 PM PST)
+- Camera-Ready: April 5, 2025 (11:59 PM PST)
 
 **Author Guidelines**
 
@@ -36,7 +36,7 @@ Please download the [CVPR 2025 Author Kit](https://github.com/cvpr-org/author-ki
 
 **Submission Guidelines**
 
-The Microsoft CMT will be used for managing the peer-reviewing process for this workshop: [https://cmt3.research.microsoft.com/](https://cmt3.research.microsoft.com/)
+The Microsoft CMT will be used for managing the peer-reviewing process for this workshop: [https://cmt3.research.microsoft.com/SLRTP2025/](https://cmt3.research.microsoft.com/SLRTP2025/)
 
 The service is provided for free by Microsoft and they bear all the expenses, including costs for Azure cloud services as well as for software development and support.
 
