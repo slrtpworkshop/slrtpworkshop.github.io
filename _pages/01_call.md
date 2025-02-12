@@ -8,17 +8,18 @@ We invite submissions of papers that explore the intersection of sign language a
 
 We accept papers addressing the issues related to, but not limited to, these topics: 
 
-- Continuous Sign Language Recognition and Analysis 
-- Multi-modal Sign Language Recognition and Translation
+- Sign Language Recognition and Analysis
+- Sign Language Translation
+- LLMs and Multimodal Models for Sign Language Translation and Understanding
 - Generative Models for Sign Language Production
 - Non-manual Features and Facial Expression Recognition for Sign Language 
-- Sign Language Recognition and Translation Corpora 
-- Semi-automatic Corpora Annotation Tools
+- Sign Language Corpora: Collection, Annotation Tools
 - Linguistic and Ethical Aspects of Sign Language Technologies
 - Hand Shape Estimation and Recognition 
 - Human Pose Estimation 
 - Human Mesh Recovery 
 - Animatable Avatars
+- Lip Reading
 
 **Important Dates:** 
 
