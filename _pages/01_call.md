@@ -58,4 +58,5 @@ The service is provided for free by Microsoft and they bear all the expenses, in
 - Tobias Kirschstein, TUM, Germany
 - Tolga Birdal, Imperial College London, UK
 - Xilin Chen, Chinese Academy of Sciences, China
+- Hezhen Hu, University of Texas at Austin, USA
 
