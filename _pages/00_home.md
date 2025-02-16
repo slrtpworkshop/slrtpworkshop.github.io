@@ -38,9 +38,9 @@ Sign languages are visual languages and a key form of communication for deaf com
 
 We invite high-quality research papers to our workshop. For detailed information, please visit our [Call for Paper](https://slrtpworkshop.github.io/cfp/).
 
-- Paper Submission: March 17, 2025 
-- Decisions to Authors: April 2, 2025 
-- Camera-Ready: April 6, 2025 
+- Paper Submission: March 16, 2025 (11:59 PM PST)
+- Decisions to Authors: April 1, 2025 (11:59 PM PST)
+- Camera-Ready: April 5, 2025 (11:59 PM PST)
 
 We are hosting the first Sign Language Production (SLP) challange to address the growing need for standardized evaluation metrics and representations in SLP research. Check our [Sign Language Production Challenge](https://www.codabench.org/competitions/4854/). 
 - Start of the Challenge (development phase): January 13, 2025 
