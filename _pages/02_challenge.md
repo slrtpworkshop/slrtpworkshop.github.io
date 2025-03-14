@@ -45,3 +45,58 @@ We are delighted to announce the winners of the SLRTP 2025 Sign Language Product
 - Members: Tugce Kiziltepe, Hacer Yalim Keles
 
 - Method: A gloss-free transformer encoder-decoder where poses are generated from latent embeddings.
+
+<table>
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>B1</th>
+      <th>B2</th>
+      <th>B3</th>
+      <th>B4</th>
+      <th>CHRF</th>
+      <th>ROUGE</th>
+      <th>WER</th>
+      <th>DTW MJE</th>
+      <th>Total Dist.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USTC-MoE (1st)</td>
+      <td>21.35</td>
+      <td>13.47</td>
+      <td>7.83</td>
+      <td>4.93</td>
+      <td>31.71</td>
+      <td>23.26</td>
+      <td>109.38</td>
+      <td>0.057</td>
+      <td>1.185</td>
+    </tr>
+    <tr>
+      <td>hfut-lmc (2nd)</td>
+      <td>20.17</td>
+      <td>11.97</td>
+      <td>7.16</td>
+      <td>4.44</td>
+      <td>29.93</td>
+      <td>22.20</td>
+      <td>107.93</td>
+      <td>0.049</td>
+      <td>0.972</td>
+    </tr>
+    <tr>
+      <td>Hacettepe (3rd)</td>
+      <td>15.88</td>
+      <td>8.05</td>
+      <td>4.17</td>
+      <td>2.41</td>
+      <td>23.23</td>
+      <td>15.40</td>
+      <td>105.49</td>
+      <td>0.053</td>
+      <td>0.761</td>
+    </tr>
+  </tbody>
+</table>
