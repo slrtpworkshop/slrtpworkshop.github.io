@@ -49,7 +49,7 @@ We are hosting the first Sign Language Production (SLP) challange to address the
 - Code and Fact sheets submission: March 7, 2025 
 - Release of results: March 13, 2025
 
-#### Challenge Results
+### Challenge Results
 
 We are delighted to announce the winners of the SLRTP 2025 Sign Language Production Challenge. This year, more than 30 teams competed, and we thank all participants for their efforts. Below are the top three teams:
 
