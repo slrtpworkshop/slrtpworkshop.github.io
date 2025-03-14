@@ -47,7 +47,7 @@ We are delighted to announce the winners of the SLRTP 2025 Sign Language Product
 - Method: A gloss-free transformer encoder-decoder where poses are generated from latent embeddings.
 
 
-#### SLP Challenge Results on the Hidden Test Set
+**SLP Challenge Results on the Hidden Test Set**
 <table>
   <thead>
     <tr>
