@@ -133,6 +133,6 @@ Contact us at [m.lakhal@surrey.ac.uk](mailto:m.lakhal@surrey.ac.uk) or [o.mercan
 ### Sponsors
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="google_deepmind_logo.png" height="175" alt="Google DeepMind Logo">
+  <img src="assets/img/google_deepmind_logo.png" height="175" alt="Google DeepMind Logo">
   <img src="assets/img/cvf_logo.jpg" height="175" alt="CVF Logo">
 </div>
