@@ -44,7 +44,7 @@ We invite high-quality research papers to our workshop. For detailed information
 
 - Paper Submission: March 16, 2025 (11:59 PM PST)
 - Decisions to Authors: April 1, 2025 (11:59 PM PST)
-- Camera-Ready: April 5, 2025 (11:59 PM PST)
+- Camera-Ready: ~~April 5~~ April 12, 2025 (11:59 PM PST)
 
 We are hosting the first Sign Language Production (SLP) challange to address the growing need for standardized evaluation metrics and representations in SLP research. Check our [Sign Language Production Challenge](https://www.codabench.org/competitions/4854/). 
 - Start of the Challenge (development phase): January 13, 2025 
