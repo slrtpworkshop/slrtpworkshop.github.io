@@ -25,7 +25,7 @@ We accept papers addressing the issues related to, but not limited to, these top
 
 - Paper Submission: March 16, 2025 (11:59 PM PST)
 - Decisions to Authors: April 1, 2025 (11:59 PM PST)
-- Camera-Ready: April 5, 2025 (11:59 PM PST)
+- Camera-Ready: ~~April 5~~ April 12, 2025 (11:59 PM PST)
 
 **Author Guidelines**
 
