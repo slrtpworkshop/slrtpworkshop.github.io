@@ -12,6 +12,10 @@ Sign languages are visual languages and a key form of communication for deaf com
 
 For information about ASL and IS interpretation for the workshop, please visit our [Schedule](https://slrtpworkshop.github.io/schedule/) page.
 
+**Registration**
+
+All participants need to register through the official CVPR registration page. Please visit [CVPR 2025 Registration](https://cvpr.thecvf.com/Conferences/2025/Pricing2) for details on pricing and access options.
+
 ### Keynotes 
 
 <div class="user-cards">
