@@ -44,19 +44,25 @@ The service is provided for free by Microsoft and they bear all the expenses, in
 **Tentative Technical Program Committee**
 
 - Albert Ali Salah, Utrecht University, Netherlands
+- Alexandre Symeonidis-Herzig, University of Surrey, UK
+- Anil Osman Tur, University of Trento, Italy
+- Anton Pelykh, University of Surrey, UK
 - Danielle Bragg, Microsoft Research, USA
-- Eleni Efthimiou, Institute for Language and Speech Processing, Greece
-- Fabrizio Nunnari, German Research Center for AI, Germany
 - Hacer Yalim Keles, Hacettepe University, Turkiye
-- Lale Akarun, Bogazici University, Turkiye
-- Mathew Magimai Doss, IDIAP, Switzerland
-- Mayumi Bono, National Institute of Informatics, Japan
-- Orhan Firat, Google Deepmind, USA
-- Oscar Koller, Microsoft, Germany
-- Sarah Ebling, University of Zurich, Switzerland
-- Thomas Hanke, University of Hamburg, Germany
-- Tobias Kirschstein, TUM, Germany
-- Tolga Birdal, Imperial College London, UK
-- Xilin Chen, Chinese Academy of Sciences, China
+- Haran Raajesh, IIIT Hyderabad, India
 - Hezhen Hu, University of Texas at Austin, USA
+- Jian He Low, University of Surrey, UK
+- Kepeng Wu, University of Science and Technology of China, China
+- Maksym Ivashechkin, University of Surrey, UK
+- Marshall Thomas, University of Surrey, UK
+- Mayumi Bono, National Institute of Informatics, Japan
+- Oğulcan Özdemir, Bogazici University, Turkiye
+- Oliver Cory, University of Surrey, UK
+- Oscar Koller, Microsoft, Germany
+- Qifan Fu, Queen Mary University of London, UK
+- Ronglai Zuo, The Hong Kong University of Science and Technology, Hong Kong
+- Sandrine Tornay, Idiap Research Institute, Switzerland
+- Sarah Ebling, University of Zurich, Switzerland
+- Sobhan Asasi, University of Surrey, UK
+- Thomas Hanke, University of Hamburg, Germany
 
