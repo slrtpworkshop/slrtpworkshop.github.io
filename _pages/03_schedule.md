@@ -52,8 +52,11 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">11:45 AM - 12:30 PM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Poster Session & Networking</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Poster Session & Networking<br>
+        <span style="font-size: 90%;">Accepted Papers and Challenge Winners</span>
+</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -68,9 +71,16 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
   <li><em>“CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition”</em><br>Sarah Alyami, Hamzah Luqman </li>
 </ul>
 
-<h4>SLP Challenge Poster Winners</h4>
+<h4>SLP Challenge Winners</h4>
 <ul>
   <li><em>“#1: A retrieval-based approach using generated gloss segmentation and pose dictionary lookups for high-fidelity sign generation”</em><br> Team USTC-MoE: Kepeng Wu, Zecheng Li, Weichao Zhao, Haodong Wang, Wengang Zhou, Houqiang Li</li>
   <li><em>“#2: A text-driven conditional diffusion model, learning a direct mapping from text to continuous poses without gloss annotations”</em><br> Team hfut-lmc: Shengeng Tang, Jiayi He, Xu Wang, Ruobei Zhang, Yaxiong Wang, Lechao Cheng</li>
   <li><em>“#3: A gloss-free transformer encoder-decoder where poses are generated from latent embeddings”</em><br> Team Hacettepe: Meryem Tasyurek, Tugce Kiziltepe, Hacer Yalim Keles</li>
+</ul>
+
+<h4>Poster Guidelines</h4>
+<ul>
+  <li>Posters must follow the same format as the CVPR main conference, <strong>84” x 42” = 213 cm x 107 cm</strong> (WxH, aspect ratio 2:1, landscape format).</li>
+  <li>You may print your poster and bring it with you. Alternatively, you can use the CVPR poster printing service <em>(Note: An early bird discount is available for poster printing orders placed before May 26)</em>.</li>
+  <li>A poster template and more details are available here: <a href="https://cvpr.thecvf.com/Conferences/2025/PosterPrintingInformation" target="_blank">https://cvpr.thecvf.com/Conferences/2025/PosterPrintingInformation</a></li>
 </ul>
