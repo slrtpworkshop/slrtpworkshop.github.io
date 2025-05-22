@@ -48,7 +48,7 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">11:30 AM - 11:45 AM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">SLP Competition Winner</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">SLP Competition Winners</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">11:45 AM - 12:30 PM</td>
