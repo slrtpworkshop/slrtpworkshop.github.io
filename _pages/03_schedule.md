@@ -12,7 +12,7 @@ ASL/English interpretation will be provided on-site for the whole workshop. IS/E
 
 We sincerely thank CVPR for providing interpretation services and supporting accessibility at our workshop.
 
-<h3>Programme</h3>
+<h3>Schedule</h3>
 
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -67,7 +67,7 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
   </tbody>
 </table>
 
-<h4>SLP Challenge Winners</h4>
+<h4>SLP Competition Winners</h4>
 <ul>
   <li><em>“#1: A retrieval-based approach using generated gloss segmentation and pose dictionary lookups for high-fidelity sign generation”</em><br> Team USTC-MoE: Kepeng Wu, Zecheng Li, Weichao Zhao, Haodong Wang, Wengang Zhou, Houqiang Li</li>
   <li><em>“#2: A text-driven conditional diffusion model, learning a direct mapping from text to continuous poses without gloss annotations”</em><br> Team hfut-lmc: Shengeng Tang, Jiayi He, Xu Wang, Ruobei Zhang, Yaxiong Wang, Lechao Cheng</li>
