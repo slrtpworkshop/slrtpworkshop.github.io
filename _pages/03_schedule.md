@@ -47,11 +47,11 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
       <td style="padding: 10px; border: 1px solid #ddd;">Invited Speaker 4 – Abraham Glasser</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">11:30 AM - 11:45 AM</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">11:30 AM - 11:50 AM</td>
       <td style="padding: 10px; border: 1px solid #ddd;">SLP Competition Winners</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">11:45 AM - 12:30 PM</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">12:00 AM - 12:30 PM</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Poster Session & Networking<br>
         <span style="font-size: 90%;">Accepted Papers and Challenge Winners</span>
 </td>
@@ -59,8 +59,6 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
 
   </tbody>
 </table>
-
-<h3>Poster List</h3>
 
 <h4>Accepted Workshop Papers</h4>
 <ul>
