@@ -75,6 +75,8 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
 </ul>
 
 <h4>Accepted Papers</h4>
+We received 18 submissions, and 5 papers were accepted, resulting in an acceptance rate of approximately 28%.
+
 <h5>Poster Session</h5>
 <ul>
   <li><em>“Cross-Modal Consistency Learning for Sign Language Recognition”</em><br> Kepeng Wu, Zecheng Li, Weichao Zhao, Hezhen Hu, Wengang Zhou, Houqiang Li</li>
