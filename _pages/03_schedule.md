@@ -67,14 +67,14 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
   </tbody>
 </table>
 
-<h4>SLP Competition Winners</h4>
+**SLP Competition Winners**
 <ul>
   <li><em>“#1: A retrieval-based approach using generated gloss segmentation and pose dictionary lookups for high-fidelity sign generation”</em><br> Team USTC-MoE: Kepeng Wu, Zecheng Li, Weichao Zhao, Haodong Wang, Wengang Zhou, Houqiang Li</li>
   <li><em>“#2: A text-driven conditional diffusion model, learning a direct mapping from text to continuous poses without gloss annotations”</em><br> Team hfut-lmc: Shengeng Tang, Jiayi He, Xu Wang, Ruobei Zhang, Yaxiong Wang, Lechao Cheng</li>
   <li><em>“#3: A gloss-free transformer encoder-decoder where poses are generated from latent embeddings”</em><br> Team Hacettepe: Meryem Tasyurek, Tugce Kiziltepe, Hacer Yalim Keles</li>
 </ul>
 
-<h4>Accepted Papers</h4>
+**Accepted Papers**
 We received 18 submissions, and 5 papers were accepted, resulting in an acceptance rate of approximately 28%.
 
 <h5>Poster Session</h5>
