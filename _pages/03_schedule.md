@@ -75,6 +75,7 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
 </ul>
 
 **Accepted Papers**
+
 We received 18 submissions, and 5 papers were accepted, resulting in an acceptance rate of approximately 28%.
 
 <h5>Poster Session</h5>
