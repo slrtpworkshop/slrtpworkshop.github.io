@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: Home
-desc_title: at <a href="https://cvpr.org/" target="_blank">CVPR 2025</a>
+desc_title: at <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2025</a>
 description: "The 3rd Workshop on Sign Language Recognition, Translation and Production<br>June 12th, 2025, Nashville TN<br>Room: Davidson C2, 08:45AM - 12:30AM"
 ---
 
