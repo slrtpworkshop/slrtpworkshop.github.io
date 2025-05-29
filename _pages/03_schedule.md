@@ -90,4 +90,9 @@ We received 18 submissions, and 5 papers were accepted, resulting in an acceptan
   <li><em>“CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition”</em><br>Sarah Alyami, Hamzah Luqman </li>
 </ul>
 
+<h5>Challenge Paper</h5>
+<ul>
+  <li><em>“SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work”</em><br> Harry Walsh, Ed Fish, Ozge Mercanoglu Sincan, Mohamed Ilyes Lakhal, Richard Bowden, Neil Fox, Kearsy Cormier, Bencie Woll, Kepeng Wu, Zecheng Li, Weichao Zhao, Haodong Wang, Wengang Zhou, Houqiang Li, Shengeng Tang, Jiayi He, Xu Wang, Ruobei Zhang, Yaxiong Wang, Lechao Cheng, Meryem Tasyurek, Tugce Kiziltepe, Hacer Yalim Keles</li>
+</ul>
+
 
