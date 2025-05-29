@@ -51,23 +51,21 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
       <td style="padding: 10px; border: 1px solid #ddd;">SLP Competition Winners</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">12:00 AM - 12:30 PM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Poster Session & Networking<br>
-        <span style="font-size: 90%;">Accepted Papers and Challenge Winners</span>
+      <td style="padding: 10px; border: 1px solid #ddd;">11:50 AM - 12:00 AM</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Q&A for Remote Papers<br>
+    <span style="font-size: 0.9em; color: #555;">
+      Pre-recorded videos will be available online prior to the session.
+    </span>
 </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">12:00 AM - 12:30 PM</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Poster Session & Networking
+      </td>
     </tr>
 
   </tbody>
 </table>
-
-<h4>Accepted Workshop Papers</h4>
-<ul>
-  <li><em>“Cross-Modal Consistency Learning for Sign Language Recognition”</em><br> Kepeng Wu, Zecheng Li, Weichao Zhao, Hezhen Hu, Wengang Zhou, Houqiang Li</li>
-  <li><em>“Exploring Pose-based Sign Language Translation: Ablation Studies and Attention Insights”</em><br>Tomáš Železný, Jakub Straka, Václav Javorek, Ondřej Valach, Marek Hrúz, Ivan Gruber</li>
-  <li><em>“Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer”</em><br>Razieh Rastgoo, Kourosh Kiani, Sergio Escalera </li>
-  <li><em>“BUTID: A Large-scale Sign Language Translation Dataset and Benchmarks for Turkish Sign Language”</em><br>Karahan Şahin, Lale Akarun, Kadir Gökgöz, Murat Saraçlar </li>
-  <li><em>“CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition”</em><br>Sarah Alyami, Hamzah Luqman </li>
-</ul>
 
 <h4>SLP Challenge Winners</h4>
 <ul>
@@ -76,9 +74,18 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
   <li><em>“#3: A gloss-free transformer encoder-decoder where poses are generated from latent embeddings”</em><br> Team Hacettepe: Meryem Tasyurek, Tugce Kiziltepe, Hacer Yalim Keles</li>
 </ul>
 
-<h4>Poster Guidelines</h4>
+<h4>Accepted Papers</h4>
+<h5>Poster Session</h5>
 <ul>
-  <li>Posters must follow the same format as the CVPR main conference, <strong>84” x 42” = 213 cm x 107 cm</strong> (WxH, aspect ratio 2:1, landscape format).</li>
-  <li>You may print your poster and bring it with you. Alternatively, you can use the CVPR poster printing service <em>(Note: An early bird discount is available for poster printing orders placed before May 26)</em>.</li>
-  <li>A poster template and more details are available here: <a href="https://cvpr.thecvf.com/Conferences/2025/PosterPrintingInformation" target="_blank">https://cvpr.thecvf.com/Conferences/2025/PosterPrintingInformation</a></li>
+  <li><em>“Cross-Modal Consistency Learning for Sign Language Recognition”</em><br> Kepeng Wu, Zecheng Li, Weichao Zhao, Hezhen Hu, Wengang Zhou, Houqiang Li</li>
+  <li><em>“Exploring Pose-based Sign Language Translation: Ablation Studies and Attention Insights”</em><br>Tomáš Železný, Jakub Straka, Václav Javorek, Ondřej Valach, Marek Hrúz, Ivan Gruber</li>
 </ul>
+
+<h5>Remote Papers (Pre-recorded Videos and Live Q&A)</h5>
+<ul>
+  <li><em>“Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer”</em><br>Razieh Rastgoo, Kourosh Kiani, Sergio Escalera </li>
+  <li><em>“BUTID: A Large-scale Sign Language Translation Dataset and Benchmarks for Turkish Sign Language”</em><br>Karahan Şahin, Lale Akarun, Kadir Gökgöz, Murat Saraçlar </li>
+  <li><em>“CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition”</em><br>Sarah Alyami, Hamzah Luqman </li>
+</ul>
+
+
