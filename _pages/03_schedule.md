@@ -28,11 +28,11 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">9:00 AM - 9:30 AM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Invited Speaker 1 – Michael Black</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 1 – Michael Black</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">9:30 AM - 10:00 AM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Invited Speaker 2 – Maartje De Meulder</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 2 – Maartje De Meulder</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">10:15 AM - 10:30 AM</td>
@@ -40,11 +40,11 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">10:30 AM - 11:00 AM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Invited Speaker 3 – Matthias Nießner</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 3 – Matthias Nießner</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">11:00 AM - 11:30 AM</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Invited Speaker 4 – Abraham Glasser</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Keynote 4 – Abraham Glasser</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">11:30 AM - 11:50 AM</td>
