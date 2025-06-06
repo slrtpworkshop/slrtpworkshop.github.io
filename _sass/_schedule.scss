@@ -115,6 +115,7 @@
                     .detail-title {
                         display: flex;
                         flex-direction: column;
+                        flex-grow: 1;
 
                         h5 {
                             margin: 0;
