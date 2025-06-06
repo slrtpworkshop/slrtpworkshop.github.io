@@ -1,0 +1,403 @@
+1
+00:00:00,960 --> 00:00:03,880
+Hello, today we are introducing BUTID,
+
+2
+00:00:04,160 --> 00:00:06,080
+which is the first large-scale dataset
+
+3
+00:00:06,080 --> 00:00:07,920
+for Turkish Sign Language translation.
+
+4
+00:00:08,560 --> 00:00:11,280
+Our data set consists of 529
+
+5
+00:00:11,280 --> 00:00:13,520
+hours of sign language footage coming
+
+6
+00:00:13,520 --> 00:00:16,320
+from 27 unique signers. Our data
+
+7
+00:00:16,320 --> 00:00:18,680
+consists of 256,000
+
+8
+00:00:18,800 --> 00:00:21,440
+automatically aligned translations in
+
+9
+00:00:21,480 --> 00:00:24,320
+daily language use. Let me
+
+10
+00:00:24,320 --> 00:00:26,560
+compare our data with other
+
+11
+00:00:26,880 --> 00:00:29,120
+large-scale data sets in the literature.
+
+12
+00:00:29,520 --> 00:00:32,000
+We can see that it is the sixth largest
+
+13
+00:00:32,320 --> 00:00:35,280
+dataset introduced in overall sign
+
+14
+00:00:35,280 --> 00:00:37,400
+language translation, while it is the
+
+15
+00:00:37,400 --> 00:00:39,840
+fourth largest one in single language
+
+16
+00:00:39,840 --> 00:00:42,640
+use, while it is the largest one for
+
+17
+00:00:42,640 --> 00:00:43,440
+Turkish sign
+
+18
+00:00:45,160 --> 00:00:47,840
+language. It provides two subsets
+
+19
+00:00:48,320 --> 00:00:50,000
+for our dataset,
+
+20
+00:00:51,000 --> 00:00:53,680
+differing in the context length. When we
+
+21
+00:00:53,680 --> 00:00:56,000
+look at the subsets, single caption
+
+22
+00:00:56,000 --> 00:00:58,880
+dataset consists of isolated captions.
+
+23
+00:01:00,000 --> 00:01:02,560
+While the multi-caption subset
+
+24
+00:01:02,880 --> 00:01:04,880
+consists of merged captions with
+
+25
+00:01:04,880 --> 00:01:07,640
+connected speech, meaning there is almost
+
+26
+00:01:07,640 --> 00:01:09,360
+no interference in between those
+
+27
+00:01:09,360 --> 00:01:12,320
+captions. For alignment,
+
+28
+00:01:13,400 --> 00:01:16,240
+we first select sentences or captions
+
+29
+00:01:16,600 --> 00:01:18,000
+with conversational gaps.
+
+30
+00:01:19,600 --> 00:01:21,840
+After extracting these frames
+
+31
+00:01:22,320 --> 00:01:24,880
+videos with an end offsets,
+
+32
+00:01:25,440 --> 00:01:28,240
+we apply pose estimation to find
+
+33
+00:01:28,640 --> 00:01:31,080
+the active frames for filtering,
+
+34
+00:01:31,920 --> 00:01:34,320
+meaning the active signing
+
+35
+00:01:34,320 --> 00:01:35,120
+occurs.
+
+36
+00:01:37,040 --> 00:01:38,960
+After this aligned data,
+
+37
+00:01:39,760 --> 00:01:42,320
+we apply the methodology
+
+38
+00:01:42,320 --> 00:01:44,400
+introduced in the YouTube ASL paper,
+
+39
+00:01:45,360 --> 00:01:48,080
+which consists of mapping the
+
+40
+00:01:48,080 --> 00:01:50,720
+pose estimation input with a projection
+
+41
+00:01:50,720 --> 00:01:52,880
+layer into the token space of the
+
+42
+00:01:52,880 --> 00:01:55,760
+language model for learning translation.
+
+43
+00:01:56,400 --> 00:01:59,120
+To do that, we. Use mT5 small
+
+44
+00:01:59,120 --> 00:02:01,560
+model with two layer MLP
+
+45
+00:02:01,560 --> 00:02:04,560
+projection with GeLU activation
+
+46
+00:02:04,560 --> 00:02:07,520
+function. To further
+
+47
+00:02:07,680 --> 00:02:10,160
+improve our methods, we apply
+
+48
+00:02:10,160 --> 00:02:11,920
+augmentation and paraphrasing.
+
+49
+00:02:13,920 --> 00:02:16,720
+For augmentation we use
+
+50
+00:02:16,720 --> 00:02:18,960
+frame dropping as well as
+
+51
+00:02:19,520 --> 00:02:22,480
+cue masking. For paraphrasing
+
+52
+00:02:23,000 --> 00:02:25,760
+we use paraphrasing both a method of
+
+53
+00:02:26,240 --> 00:02:29,080
+augmentation, population as well as the
+
+54
+00:02:29,080 --> 00:02:31,600
+evaluation method since
+
+55
+00:02:31,840 --> 00:02:34,360
+Turkish is an agglutinative language and
+
+56
+00:02:34,400 --> 00:02:36,160
+it has flexible word order,
+
+57
+00:02:37,040 --> 00:02:39,600
+so the sentence level alignment is harder
+
+58
+00:02:39,600 --> 00:02:42,480
+than when we compare it with English.
+
+59
+00:02:44,240 --> 00:02:46,880
+So to provide paraphrases
+
+60
+00:02:47,440 --> 00:02:50,240
+we use fine-tuned TURNA
+
+61
+00:02:50,240 --> 00:02:52,960
+which is a Turkish based LLM
+
+62
+00:02:53,520 --> 00:02:55,520
+trained on OpenSubtitles data set.
+
+63
+00:03:00,640 --> 00:03:02,800
+Using these methods we
+
+64
+00:03:04,160 --> 00:03:06,960
+extract our baseline scores. So when we
+
+65
+00:03:06,960 --> 00:03:09,680
+look at these scores we see that a
+
+66
+00:03:09,680 --> 00:03:12,640
+lower BLEU-4 score because
+
+67
+00:03:12,640 --> 00:03:15,360
+of the limited context length as well as
+
+68
+00:03:15,680 --> 00:03:18,320
+we see augmentation adds
+
+69
+00:03:18,320 --> 00:03:20,960
+noise since the context window is small
+
+70
+00:03:22,640 --> 00:03:25,520
+while in Multi caption, with
+
+71
+00:03:25,840 --> 00:03:28,560
+longer sequences, we see higher
+
+72
+00:03:28,560 --> 00:03:31,360
+BLEU-4 and we also
+
+73
+00:03:31,360 --> 00:03:34,160
+see augmentation has improvements
+
+74
+00:03:34,160 --> 00:03:35,040
+over the results.
+
+75
+00:03:38,120 --> 00:03:40,000
+For evaluating the effect of
+
+76
+00:03:40,000 --> 00:03:42,480
+paraphrasing and augmentation, we see
+
+77
+00:03:42,480 --> 00:03:45,360
+paraphrasing has significant
+
+78
+00:03:45,360 --> 00:03:48,320
+improvements in the single caption data,
+
+79
+00:03:48,640 --> 00:03:51,440
+while it is not applicable due
+
+80
+00:03:51,440 --> 00:03:54,160
+to the large context length of the text.
+
+81
+00:03:54,960 --> 00:03:57,680
+So when we look at the qualitative part
+
+82
+00:03:58,160 --> 00:04:00,880
+of our models, these in these
+
+83
+00:04:00,880 --> 00:04:03,600
+examples we see high
+
+84
+00:04:03,600 --> 00:04:06,520
+quality translations while seeing a
+
+85
+00:04:07,080 --> 00:04:09,520
+very low BLEU-4 score. So
+
+86
+00:04:11,440 --> 00:04:14,120
+this is due to the
+
+87
+00:04:14,240 --> 00:04:17,200
+BLEU-4 is almost zero in the single
+
+88
+00:04:17,200 --> 00:04:19,760
+context data because the average token
+
+89
+00:04:19,760 --> 00:04:21,840
+length is so small.
+
+90
+00:04:22,960 --> 00:04:25,960
+As well as the word order differs in
+
+91
+00:04:25,960 --> 00:04:28,880
+the language. So we see lower BLEU-3
+
+92
+00:04:28,880 --> 00:04:31,760
+and BLEU-4 matches. So we can say that
+
+93
+00:04:32,400 --> 00:04:35,040
+blue four metric is not a good
+
+94
+00:04:35,040 --> 00:04:38,000
+metric to evaluate Turkish based models.
+
+95
+00:04:40,200 --> 00:04:42,800
+We can also see that in these examples
+
+96
+00:04:43,200 --> 00:04:46,040
+while the root word base
+
+97
+00:04:46,040 --> 00:04:49,040
+word is the same in ground truth and
+
+98
+00:04:49,040 --> 00:04:51,440
+predictions. uh Due to the Turkish
+
+99
+00:04:51,440 --> 00:04:54,000
+morphology, we can even see lower
+
+100
+00:04:54,000 --> 00:04:56,400
+scores with the BLEU-1
+
+101
+00:04:57,920 --> 00:04:59,960
+metric. Thank you for listening.
