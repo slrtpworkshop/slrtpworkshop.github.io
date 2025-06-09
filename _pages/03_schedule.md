@@ -10,6 +10,11 @@ Our workshop will be hybrid, with both in-person and remote participation option
 
 We sincerely thank CVPR for providing interpretation services and supporting accessibility at our workshop.
 
+
+**Virtual Platform**
+
+Zoom link is only accessible to CVPR 2025 registered participants who have logged in to the virtual platform (https://cvpr.thecvf.com/virtual/2025/workshop/32296)
+
 {% include schedule.html %}
 
 **SLP Competition Winners**
