@@ -16,6 +16,8 @@ For information about ASL and IS interpretation for the workshop, please visit o
 
 All participants need to register through the official CVPR registration page. Please visit [CVPR 2025 Registration](https://cvpr.thecvf.com/Conferences/2025/Pricing2) for details on pricing and access options.
 
+Please note: This is a hybrid event. Zoom link is only accessible to CVPR 2025 registered participants who have logged in to the virtual platform [https://cvpr.thecvf.com/virtual/2025/workshop/32296](https://cvpr.thecvf.com/virtual/2025/workshop/32296)
+
 ### Keynotes 
 
 <div class="user-cards">
