@@ -13,7 +13,7 @@ We sincerely thank CVPR for providing interpretation services and supporting acc
 
 **Virtual Platform**
 
-Zoom link is only accessible to CVPR 2025 registered participants who have logged in to the virtual platform (https://cvpr.thecvf.com/virtual/2025/workshop/32296)
+Zoom link is only accessible to CVPR 2025 registered participants who have logged in to the virtual platform [https://cvpr.thecvf.com/virtual/2025/workshop/32296](https://cvpr.thecvf.com/virtual/2025/workshop/32296)
 
 {% include schedule.html %}
 
