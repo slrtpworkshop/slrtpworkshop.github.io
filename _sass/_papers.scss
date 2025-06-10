@@ -35,6 +35,12 @@
             padding: 0.5rem;
             color: #57534e;
             font-size: 0.875rem;
+
+            .paper-detail-header {
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+            }
             
             .author {
                 color: #78716c;
