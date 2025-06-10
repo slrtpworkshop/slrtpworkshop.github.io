@@ -40,6 +40,12 @@
                 display: flex;
                 align-items: center;
                 gap: 0.5rem;
+
+                a {
+                    padding: 0.1rem 0.45rem;
+                    background: #ecebf4;
+                    border-radius: .35rem;
+                }
             }
             
             .author {
